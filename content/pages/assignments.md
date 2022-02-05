@@ -8,19 +8,182 @@ In addition to problem sets ("PS"), which are available in the table below, stud
 
 Term Project Description ([PDF]({{< baseurl >}}/resources/termproject))
 
-| SES # | TOPICS | ASSIGNMENTS ISSUED | ASSIGNMENTS DUE |
-| --- | --- | --- | --- |
-| {{< td-colspan 4 >}}The Basics: Hardware, OS, and Software{{< /td-colspan >}} ||||
-| 1 | Introduction: Course Overview; Inside the CPU | &nbsp; |
-| 2 | Computer Architecture: Processing, Memory and I/O | PS1 out | &nbsp; |
-| &nbsp; | Recitation: Little Man Computer | &nbsp; |
-| 3 | Computer Representations; Compression | &nbsp; |
-| 4 | Operating Systems | &nbsp; |
-| &nbsp; | Recitation: Computer Hardware and Operating Systems | &nbsp; |
-| 5 | Software Development | &nbsp; |
-| &nbsp; | Recitation: Software Development | &nbsp; |
-| {{< td-colspan 4 >}}Databases{{< /td-colspan >}} ||||
-| 6 | Relational Databases; Database Queries Using SQL | PS2 out |  {{< br >}}{{< br >}} PS1 due: Computer Fundamentals ([PDF]({{< baseurl >}}/resources/pset1))  {{< br >}}  {{< br >}}For PS1, use the following files {{< br >}}{{< br >}} *   One.txt ([TXT](/courses/sloan-school-of-management/15-564-information-technology-i-spring-2003/assignments/one.txt)) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS ISSUED
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS DUE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+The Basics: Hardware, OS, and Software
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Course Overview; Inside the CPU
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Computer Architecture: Processing, Memory and I/O
+{{< tdclose >}}
+{{< tdopen >}}
+PS1 out
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation: Little Man Computer
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Computer Representations; Compression
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Operating Systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation: Computer Hardware and Operating Systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Software Development
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation: Software Development
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+Databases
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Relational Databases; Database Queries Using SQL
+{{< tdclose >}}
+{{< tdopen >}}
+PS2 out
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PS1 due: Computer Fundamentals ([PDF]({{< baseurl >}}/resources/pset1))  
+  
+For PS1, use the following files
+
+*   One.txt ([TXT](/courses/sloan-school-of-management/15-564-information-technology-i-spring-2003/assignments/one.txt))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 *   Random.txt ([TXT](/courses/sloan-school-of-management/15-564-information-technology-i-spring-2003/assignments/random.txt))
 *   Database.mdb - use any Microsoft® Access database

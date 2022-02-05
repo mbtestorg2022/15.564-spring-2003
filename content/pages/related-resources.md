@@ -6,35 +6,394 @@ uid: 786e8a40-eb21-0ca8-e22d-8ce5cc805fbc
 
 The lecture notes recommend several books, articles, and web sites: they are listed here for those who would like to learn more about the topics covered.
 
-| SES # | TOPICS | RELATED RESOURCES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}The Basics: Hardware, OS, and Software{{< /td-colspan >}} |||
-| 1 | Introduction: Course Overview; Inside the CPU | &nbsp; |
-| 2 | Computer Architecture: Processing, Memory and I/O | &nbsp; |
-| 3 | Computer Representations; Compression | Nelson, Mark. _The Data Compression Book_. New York: M&T Books, 1992. |
-| 4 | Operating Systems | &nbsp; |
-| 5 | Software Development | &nbsp; |
-| {{< td-colspan 3 >}}Databases{{< /td-colspan >}} |||
-| 6 | Relational Databases; Database Queries using SQL | &nbsp; |
-| 7 | An Introduction to Microsoft Access | &nbsp; |
-| 8 | Relational Database Design | &nbsp; |
-| 9 | Introduction to User Interface Building with Access Examples | &nbsp; |
-| {{< td-colspan 3 >}}Networks and Telecommunications{{< /td-colspan >}} |||
-| 10 | Telecommunication Concepts; Data Transmission | &nbsp; |
-| 11 | Local Area Networks; Ethernet; Packet-switched Networks | &nbsp; |
-| 12 | Midterm Exam - In Class | &nbsp; |
-| 13 | Wide Area Networks; The Internet | &nbsp; |
-| 14 | Wireless Network Technologies | &nbsp; |
-| {{< td-colspan 3 >}}Distributed Computing and Web Technologies{{< /td-colspan >}} |||
-| 15 | Client/Server, Peer-to-Peer and the WWW | &nbsp; |
-| 16 | Security I: Public Key Cryptography |  {{< br >}}{{< br >}} [Microsoft Security Home Page](http://www.microsoft.com/security) {{< br >}}{{< br >}} *   Advisors{{< br >}}*   Patches{{< br >}}*   IIS Security Checklist {{< br >}}{{< br >}} [SecurityFocus](http://www.securityfocus.com) {{< br >}}{{< br >}} *   Mailing List{{< br >}}*   Tools, Books, Links{{< br >}}*   Vulnerabilities and Fixes {{< br >}}{{< br >}} McClure, Stuart, Joel Scambray, and George Kurtz. _Hacking Exposed: Network Security Secrets & Solutions._ McGraw-Hill Osborne Media, 2003.  {{< br >}}  {{< br >}}Decrypting in RSA (for aficionados only) - see this paper: Rivest, R.L., A. Shamir, and L. Adleman. _A Method for Obtaining Digital Signatures and Public-Key Cryptosystems._ _Communications of the Association for Computing Machinery 21, 2. February 1978, pp. 120-126._ {{< br >}}{{< br >}}  |
-| 17 | Security II: Digital Signatures; Network Security |  {{< br >}}{{< br >}} Same as Lecture 16. {{< br >}}{{< br >}}  |
-| 18 | Evolution of Web Technologies |  {{< br >}}{{< br >}} [Scientific American: The Semantic Web](http://www.sciam.com/article.cfm?articleID=00048144-10D2-1C70-84A9809EC588EF21&ref=sciam)  {{< br >}}A new form of Web content that is meaningful to computers will unleash a revolution of new possibilities. {{< br >}}{{< br >}} Also available in print: Berners-Lee, Tim, James Hendler, and Ora Lassila. _The Semantic Web_. Scientific American, May 2001, pp. 35-43. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}eBusiness Applications{{< /td-colspan >}} |||
-| 19 | Under the Hood of a Commercial Web site | &nbsp; |
-| 20 | Data Mining, Data Warehousing  |  {{< br >}}{{< br >}} Recommended book: Berry, Michael J. A., and Gordon Linoff. _Data Mining Techniques: For Marketing, Sales, and Customer Support._ John Wiley & Sons, 1997. {{< br >}}{{< br >}} Useful collections of links - Chapple, Mike. _Data Mining and Data Warehousing_. [About.com](http://www.about.com). {{< br >}}{{< br >}} Case studies and industry - [_Datamation_](http://www.datamation.com) magazine web site. {{< br >}}{{< br >}}  |
-| 21 | Software Agents |  {{< br >}}{{< br >}} For more information on Amalthea: A Personalized Information Discovery Agent Ecosystem, see:  {{< br >}}  {{< br >}}Moukas, Amalthaea. _Amalthaea: Information Discovery and Filtering Using a Multiagent Evolving Ecosystem_. _Proceedings of the Conference on Practical Application of Intelligent Agents & Multi-Agent Technology._ London, 1996. {{< br >}}{{< br >}}  |
-| 22 | Student Presentations I | &nbsp; |
-| 23 | Student Presentations II | &nbsp; |
-| 24 | Trends in eBusiness Technology; Course Wrap-up | &nbsp; |
-| 25 | Final Exam - In Class |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+RELATED RESOURCES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+The Basics: Hardware, OS, and Software
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Course Overview; Inside the CPU
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Computer Architecture: Processing, Memory and I/O
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Computer Representations; Compression
+{{< tdclose >}}
+{{< tdopen >}}
+Nelson, Mark. _The Data Compression Book_. New York: M&T Books, 1992.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Operating Systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Software Development
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+Databases
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Relational Databases; Database Queries using SQL
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+An Introduction to Microsoft Access
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Relational Database Design
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to User Interface Building with Access Examples
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+Networks and Telecommunications
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Telecommunication Concepts; Data Transmission
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Local Area Networks; Ethernet; Packet-switched Networks
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Exam - In Class
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Wide Area Networks; The Internet
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Wireless Network Technologies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+Distributed Computing and Web Technologies
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Client/Server, Peer-to-Peer and the WWW
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Security I: Public Key Cryptography
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Microsoft Security Home Page](http://www.microsoft.com/security)
+
+*   Advisors
+*   Patches
+*   IIS Security Checklist
+
+[SecurityFocus](http://www.securityfocus.com)
+
+*   Mailing List
+*   Tools, Books, Links
+*   Vulnerabilities and Fixes
+
+McClure, Stuart, Joel Scambray, and George Kurtz. _Hacking Exposed: Network Security Secrets & Solutions._ McGraw-Hill Osborne Media, 2003.  
+  
+Decrypting in RSA (for aficionados only) - see this paper: Rivest, R.L., A. Shamir, and L. Adleman. _A Method for Obtaining Digital Signatures and Public-Key Cryptosystems._ _Communications of the Association for Computing Machinery 21, 2. February 1978, pp. 120-126._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Security II: Digital Signatures; Network Security
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Same as Lecture 16.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Evolution of Web Technologies
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Scientific American: The Semantic Web](http://www.sciam.com/article.cfm?articleID=00048144-10D2-1C70-84A9809EC588EF21&ref=sciam)  
+A new form of Web content that is meaningful to computers will unleash a revolution of new possibilities.
+
+Also available in print: Berners-Lee, Tim, James Hendler, and Ora Lassila. _The Semantic Web_. Scientific American, May 2001, pp. 35-43.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+eBusiness Applications
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Under the Hood of a Commercial Web site
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Data Mining, Data Warehousing 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Recommended book: Berry, Michael J. A., and Gordon Linoff. _Data Mining Techniques: For Marketing, Sales, and Customer Support._ John Wiley & Sons, 1997.
+
+Useful collections of links - Chapple, Mike. _Data Mining and Data Warehousing_. [About.com](http://www.about.com).
+
+Case studies and industry - [_Datamation_](http://www.datamation.com) magazine web site.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Software Agents
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+For more information on Amalthea: A Personalized Information Discovery Agent Ecosystem, see:  
+  
+Moukas, Amalthaea. _Amalthaea: Information Discovery and Filtering Using a Multiagent Evolving Ecosystem_. _Proceedings of the Conference on Practical Application of Intelligent Agents & Multi-Agent Technology._ London, 1996.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Trends in eBusiness Technology; Course Wrap-up
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam - In Class
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

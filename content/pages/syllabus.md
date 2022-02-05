@@ -66,13 +66,66 @@ Assignments, Exams, and Grading
 
 The course [assignments]({{< baseurl >}}/pages/assignments) consist of 5 problem sets, two in-class exams and a term project. Grades will be determined on the following basis:
 
-| ACTIVITY | PERCENTAGE |
-| --- | --- |
-| Problem Sets | 35% |
-| Midterm Exam | 20% |
-| Final Exam | 20% |
-| Term Project | 20% |
-| Class Contribution | 5% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITY
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Term Project
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Contribution
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
