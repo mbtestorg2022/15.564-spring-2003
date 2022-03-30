@@ -176,7 +176,7 @@ PS1 due: Computer Fundamentals ([PDF]({{< baseurl >}}/resources/pset1))
   
 For PS1, use the following files
 
-*   One.txt ([TXT](/courses/sloan-school-of-management/15-564-information-technology-i-spring-2003/assignments/one.txt))
+*   One.txt ({{% resource_link "aec73512-68d7-5ee8-213a-42d505b87499" "TXT" %}})
 
 
 {{< tdclose >}}
@@ -185,7 +185,7 @@ For PS1, use the following files
 
 {{< tableclose >}}
 
-*   Random.txt ([TXT](/courses/sloan-school-of-management/15-564-information-technology-i-spring-2003/assignments/random.txt))
+*   Random.txt ({{% resource_link "78ae2fbd-ec14-b75b-1f01-46f60b04db28" "TXT" %}})
 *   Database.mdb - use any Microsoft® Access database
 *   Icse3.doc - use any Microsoft® Word document
 *   telnet.exe - use any executable program
